@@ -2,6 +2,10 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/lecture_demos/Demo06/src/java/servlets/AccountServlet.java</file>
+            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/lecture_demos/Demo06/src/java/models/User.java</file>
+            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/lecture_demos/Demo06/web/WEB-INF/accounts.jsp</file>
+        </group>
     </open-files>
 </project-private>

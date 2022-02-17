@@ -22,7 +22,7 @@
         </ul>
         <div>
             <!-- add a link to go back to root of application -->
-            <a href="<c:out value='/'/>">Return home</a>
+            <a href="<c:url value="/accounts" />">Return home</a>
         </div>
     </body>
 </html>

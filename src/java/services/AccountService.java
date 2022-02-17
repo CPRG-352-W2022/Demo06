@@ -29,5 +29,6 @@ public class AccountService {
     public User getAccount(String username) throws Exception {
         userDB = new UserDB(path);
         return userDB.getUser(username);
+        // additional processing or logic...
     }
 }
